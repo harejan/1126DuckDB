@@ -1,5 +1,3 @@
-# 1126DuckDB
-it's an exetcise
 ---
 title: 1126DuckDB
 emoji: 🦆
